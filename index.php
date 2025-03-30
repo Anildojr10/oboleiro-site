@@ -1,0 +1,1 @@
+<?php echo '<h1>Bem-vindo ao site da O Boleiro Bolos!</h1><p><a href="menu.php">Acesse o Cardápio</a></p>'; ?>
